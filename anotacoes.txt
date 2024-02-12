@@ -4,7 +4,7 @@ obs: O que está em aspas simples é apenas informativo
     e sim fazer o que está escrito na instrução dentro 
     das aspas.
 
-COMANDOS GIT:
+COMANDOS DO GIT:
 
     git init -> Inicia o git na pasta
     git log -> Mostra todas as versões de commit
@@ -13,10 +13,12 @@ COMANDOS GIT:
     git add . -> Adiciona todas as modificações no stage
     git add nome_do_arquivo -> Adiciona um arquivo especifico no stage
     git --version -> Verifica a versões do git instalada
-    git checkout 'seis primeiros digitos da versao' (versão pode ser checada com 'git log') -> Volta para uma versão específica
+    git checkout 'seis primeiros digitos da versao' (versão pode ser checada com 'git log') 
+	-> Volta para uma versão específica
     git checkout master ou main -> Volta para a última versão commitada
 
 COMANDOS DO TERMINAL:
+
     cls -> limpa o terminal
     cd -> Entrar em uma pasta
     ls -> listar diretório

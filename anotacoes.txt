@@ -1,0 +1,14 @@
+Comandos, Git e Github
+obs: O que está em aspas simples é apenas informativo
+    não é pra usar aspas simples ao executar o comando,
+    e sim fazer o que está escrito na instrução dentro 
+    das aspas.
+
+git init
+git log
+git status
+git commit -m "mensagem"
+git add .
+git add nome_do_arquivo
+git --version
+git checkout 'seis primeiros digitos da versao' (versão pode ser checada com 'git log')

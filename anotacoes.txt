@@ -16,6 +16,8 @@ COMANDOS DO GIT:
     git checkout 'seis primeiros digitos da versao' (versão pode ser checada com 'git log') 
 	-> Volta para uma versão específica
     git checkout master ou main -> Volta para a última versão commitada
+    git merge -> Envia as alterações da minha branch para a linha principal
+    git branch -> Cria uma ramificação da linha principal
 
 COMANDOS DO TERMINAL:
 
@@ -23,8 +25,14 @@ COMANDOS DO TERMINAL:
     cd -> Entrar em uma pasta
     ls -> listar diretório
 
+COMANDO GITHUB:
+    git push origin nome-do-commit -> manda as alterções para o Github
+    git pull origin -> traz as alterações do repositório remoto para o local
+        mantendo meu repositório local atualizado.
+    git clone link-do-projeto -> clona um repositorio remoto
+
 ANOTAÇÕES:
     A branch é uma ramificação do projeto principal onde eu posso trabalhar e fazer
         quantos commits forem necessários, posso fazer branchs de uma branch, 
         quantas forem necessárias.
-    O margin é usado para juntar as branchs na linha do tempo principal
+    O merge é usado para juntar as branchs na linha do tempo principal

@@ -22,3 +22,9 @@ COMANDOS DO TERMINAL:
     cls -> limpa o terminal
     cd -> Entrar em uma pasta
     ls -> listar diretório
+
+ANOTAÇÕES:
+    A breanch é uma ramificação do projeto principal onde eu posso trabalhar e fazer
+        quantos commits forem necessários, posso fazer breanchs de uma breanch, 
+        quantas forem necessárias.
+    O margin é usado para juntar as breanchs na linha do tempo principal
